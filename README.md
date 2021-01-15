@@ -10,6 +10,6 @@ What's currently on my plate:
 
 - 🌱 Currently learning: Machine Learning, following Stanford Andrew Ng's online course.
 
-- 👯 Open to collaboration on my source agnostic time-series display & analysis tool, [insight](https://github.com/kierandwn/insight).
+- 👯 Open to collaboration on: my source agnostic time-series display & analysis tool, [insight](https://github.com/kierandwn/insight).
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kierandwn/)
