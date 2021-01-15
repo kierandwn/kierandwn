@@ -1,4 +1,4 @@
-### Hi there 👋
+### oh haii 👋
 
 I discovered programming during my first year in university, and haven't stopped since! My experience is primarily in numerical modelling of systems - namely F1 cars and Aerial Robotics (multicopters), and I am passionate about leveraging model to improve our understanding or utilisation of a system.
 
