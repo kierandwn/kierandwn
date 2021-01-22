@@ -1,15 +1,24 @@
 ### oh haii 👋
 
-I discovered programming during my first year in university, and haven't stopped since! My experience is primarily in numerical modelling of systems - namely F1 cars and Aerial Robotics (multicopters), and I am passionate about leveraging model to improve our understanding or utilisation of a system.
+<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kierandwn&repo=curriculum-vitae&theme=graywhite" />
 
-After completing the initial computing module during my degree (in MATLAB), I took the following summer to teach myself more general programming concepts in Javascript using FreeCodeCamp. Since then, I have learned Python and C++, and applied knowledge this professionally. I completed a High Performance Computing module in C++ as part my degree, achieving 97%. My CV can be found [here](https://github.com/kierandwn/curriculum-vitae).
+An engineer specialising in numerics, I am passionate about combining lessons learned from theory with empirical knowledge - and formalising this in a model. I particularly enjoy using empirical data to inform a model: and then interrogating the model to increase our understanding of a system, in order to optimise its design or utilisation.
+
+I have worked across disciplines: including system modelling (automotive/multicopter dynamics), control theory, autonomous navigation & estimation.
+
+I take on the development of my own tools to aid my workflow where possible, and have familiarised myself with software design principles such as Object-Orientated Programming (OOP), Design Patterns, Test-Driven Development.
 
 What's currently on my plate:
 
-- 🔭 Currently working on: an equation of a motion propagator, [propagate](https://github.com/kierandwn/propagate), that I intend to use to build a quadcopter dynamic model, complete with multi-mode controller, navigation and Kalman estimation - and then build the quadcopter itself.  
+- 🔭 Currently working on: Quadcopter navigation & control solution. To be tested first in simulation, then flown on a custom built craft. Control to be based on spacecraft attitude control formulations for linear closed-loop dynamics, navigation to autonomous, with interaction with the user (myself) determined on the result of deep model output (CV).
 
-- 🌱 Currently learning: Machine Learning, following Stanford Andrew Ng's online course.
+- :sparkles: Finishing up: Low Mars Orbit (LMO) propagator for the simulation of science-craft in LMO communicating with mother-craft in Geostationary Mars Orbit (GMO). Completed functionality of attitude kinematics library: [attitude](https://github.com/kierandwn/attitude); and full simulation: [capstone](https://github.com/kierandwn/capstone). Configuration of system dynamics solvers, control contributions and actuation models are to be abstracted to template [propagate](https://github.com/kierandwn/propagate).
+
+- 🌱 Currently learning: Machine Learning (incl. Deep Learning & Reinforcement Learning), following Stanford Andrew Ng's online specialisation, and UCL/OpenAI co-authored RL YouTube series.
 
 - 👯 Open to collaboration on: my source agnostic time-series display & analysis tool, [insight](https://github.com/kierandwn/insight).
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kierandwn/)
+___
+
+Reach me on <a href="https://twitter.com/kierandwn"><img src="https://raw.githubusercontent.com/kierandwn/kierandwn/main/icons/twitter.png"/></a> or <a href="https://www.linkedin.com/in/kierandwn/"><img src="https://raw.githubusercontent.com/kierandwn/kierandwn/main/icons/linkedin.png"/></a>
+
