@@ -19,7 +19,7 @@ What's currently on my plate:
     - Full simulation, [capstone](https://github.com/kierandwn/capstone). 
     - Abstracted configuration of system dynamics solvers, control contributions and actuation models are to be implemented in project template, [propagate](https://github.com/kierandwn/propagate).
 
-- 🌱 Currently learning: Machine Learning (incl. Deep Learning & Reinforcement Learning), following Stanford Andrew Ng's online specialisation, and UCL/OpenAI co-authored RL YouTube series.
+- 🌱 Currently learning: Machine Learning (incl. Deep Learning & Reinforcement Learning), following Stanford Andrew Ng's online specialisation, and UCL/DeepMind co-authored RL YouTube series.
 
 - 👯 Open to collaboration on: my source agnostic time-series display & analysis tool, [insight](https://github.com/kierandwn/insight).
 
