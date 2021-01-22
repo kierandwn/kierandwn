@@ -1,8 +1,10 @@
+[![Header](https://raw.githubusercontent.com/kierandwn/kierandwn/main/header/rubiks.jpg "Header")]()
+
 ### oh haii 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kierandwn&repo=curriculum-vitae&theme=graywhite" />
 
-An engineer specialising in numerics, I am passionate about combining lessons learned from theory with empirical knowledge - and formalising this in a model. I particularly enjoy using empirical data to inform a model: and then interrogating the model to increase our understanding of a system, in order to optimise its design or utilisation.
+An engineer specialising in numerics, I am passionate about combining lessons learned from theory with empirical knowledge - and formalising this in a model. I particularly enjoy using empirical data to inform a model: then interrogating it to increase our understanding of the system, in order to optimise its design or utilisation.
 
 I have worked across disciplines: including system modelling (automotive/multicopter dynamics), control theory, autonomous navigation & estimation.
 
@@ -12,7 +14,10 @@ What's currently on my plate:
 
 - 🔭 Currently working on: Quadcopter navigation & control solution. To be tested first in simulation, then flown on a custom built craft. Control to be based on spacecraft attitude control formulations for linear closed-loop dynamics, navigation to autonomous, with interaction with the user (myself) determined on the result of deep model output (CV).
 
-- :sparkles: Finishing up: Low Mars Orbit (LMO) propagator for the simulation of science-craft in LMO communicating with mother-craft in Geostationary Mars Orbit (GMO). Completed functionality of attitude kinematics library: [attitude](https://github.com/kierandwn/attitude); and full simulation: [capstone](https://github.com/kierandwn/capstone). Configuration of system dynamics solvers, control contributions and actuation models are to be abstracted to template [propagate](https://github.com/kierandwn/propagate).
+- :sparkles: Finishing up: Low Mars Orbit (LMO) propagator for the simulation of science-craft in LMO communicating with mother-craft in Geostationary Mars Orbit (GMO). Included:
+    - Attitude kinematics description library, [attitude](https://github.com/kierandwn/attitude); 
+    - Full simulation, [capstone](https://github.com/kierandwn/capstone). 
+    - Abstracted configuration of system dynamics solvers, control contributions and actuation models are to be implemented in project template, [propagate](https://github.com/kierandwn/propagate).
 
 - 🌱 Currently learning: Machine Learning (incl. Deep Learning & Reinforcement Learning), following Stanford Andrew Ng's online specialisation, and UCL/OpenAI co-authored RL YouTube series.
 
