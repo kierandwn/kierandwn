@@ -2,7 +2,7 @@
 
 ### oh haii 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kierandwn&repo=curriculum-vitae&theme=graywhite" />
+<a href="https://github.com/kierandwn/curriculum-vitae/blob/onepage/main.pdf"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kierandwn&repo=curriculum-vitae&theme=graywhite" /></a>
 
 An engineer specialising in numerics, I am passionate about combining lessons learned from theory with empirical knowledge - and formalising this in a model. I particularly enjoy using empirical data to inform a model: then interrogating it to increase our understanding of the system, in order to optimise its design or utilisation.
 
