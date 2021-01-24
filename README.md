@@ -17,7 +17,7 @@ What's currently on my plate:
 - :sparkles: Finishing up: Low Mars Orbit (LMO) propagator for the simulation of science-craft in LMO communicating with mother-craft in Geostationary Mars Orbit (GMO). Included:
     - Attitude kinematics description library, [attitude](https://github.com/kierandwn/attitude); 
     - Full simulation, [capstone](https://github.com/kierandwn/capstone). 
-    - Abstracted configuration of system dynamics solvers, control contributions and actuation models are to be implemented in project template, [propagate](https://github.com/kierandwn/propagate).
+    - Abstracted configuration of system dynamics solvers, control contributions and actuation models are to be pushed upstream to dynamics propagator project template, [propagate](https://github.com/kierandwn/propagate).
 
 - 🌱 Currently learning: Machine Learning (incl. Deep Learning & Reinforcement Learning), following Stanford Andrew Ng's online specialisation, and UCL/DeepMind co-authored RL YouTube series.
 
