@@ -12,7 +12,7 @@ I take on the development of my own tools to aid my workflow where possible, and
 
 What's currently on my plate:
 
-- 🔭 Currently working on: Quadcopter navigation & control solution. To be tested first in simulation, then flown on a custom built craft. Control to be based on spacecraft attitude control formulations for linear closed-loop dynamics, navigation to autonomous, with interaction with the user (myself) determined on the result of deep model output (CV).
+- 🔭 Currently working on: quadcopter navigation & control solution. To be tested first in simulation, then flown on a custom built craft. Control to be based on spacecraft attitude control formulations for linear closed-loop dynamics, navigation to autonomous, with interaction with the user (myself) determined on the result of deep model output (CV).
 
 - :sparkles: Finishing up: Low Mars Orbit (LMO) propagator for the simulation of science-craft in LMO communicating with mother-craft in Geostationary Mars Orbit (GMO). Included:
     - Attitude kinematics description library, [attitude](https://github.com/kierandwn/attitude); 
