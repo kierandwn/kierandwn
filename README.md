@@ -4,9 +4,9 @@
 
 <a href="https://github.com/kierandwn/kierandwn/blob/main/docs/kierandownie-cv.pdf"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=kierandwn&repo=kierandwn&theme=graywhite" /></a>
 
-An engineer specialising in numerics, I am passionate about combining lessons learned from theory with empirical knowledge - and formalising this in a model. I particularly enjoy using empirical data to inform a model: then interrogating it to increase our understanding of the system, in order to optimise its design or utilisation.
+A numerical engineer, I am passionate about combining lessons learned from theory with empirical data - formalising this in a model, and  using it to increase our understanding of the system in order to optimise its design or utilisation.
 
-I have worked across disciplines: including system modelling (automotive/multicopter dynamics), control theory, autonomous navigation & estimation.
+I have worked across disciplines: including system modelling (automotive/multicopter dynamics), control, autonomous navigation & estimation.
 
 I take on the development of my own tools to aid my workflow where possible, and have familiarised myself with software design principles such as Object-Orientated Programming (OOP), Design Patterns, Test-Driven Development.
 
