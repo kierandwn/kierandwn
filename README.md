@@ -10,7 +10,7 @@ I have worked across disciplines: including system modelling (automotive/multico
 
 I take on the development of my own tools to aid my workflow where possible, and have familiarised myself with software design principles such as Object-Orientated Programming (OOP), Design Patterns, Test-Driven Development.
 
-What's currently on my plate:
+<!-- What's currently on my plate:
 
 - 🔭 Currently working on: quadcopter navigation & control solution. To be tested first in simulation, then flown on a custom built craft. Control to be based on spacecraft attitude control formulations for linear closed-loop dynamics, navigation to autonomous, with interaction with the user (myself) determined on the result of deep model output (CV).
 
@@ -23,7 +23,7 @@ What's currently on my plate:
 
 - 👯 Open to collaboration on: my source agnostic time-series display & analysis tool, [insight](https://github.com/kierandwn/insight).
 
-___
+___ -->
 
 Reach me on <a href="https://twitter.com/kierandwn"><img src="https://raw.githubusercontent.com/kierandwn/kierandwn/main/icons/twitter.png"/></a> or <a href="https://www.linkedin.com/in/kierandwn/"><img src="https://raw.githubusercontent.com/kierandwn/kierandwn/main/icons/linkedin.png"/></a>
 
